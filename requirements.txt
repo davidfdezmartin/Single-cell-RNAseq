@@ -1,7 +1,0 @@
-python = 3.8.18
-scvi-tools
-scanpy
-pytorch-lightning==1.4.0rc0
-torchmetrics==0.6.0
-os
-scipy.sparse
